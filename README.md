@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AbdellahNassim
-- 👀 I’m interested in Artificial Intelligence and Backend Development 
+- 👋 Hi, I’m ME
+- 👀 I’m interested in Artificial Intelligence, Blockchain and Backend Development 
 - 🌱 I’m currently learning AI and Machine Learning
-- 💞️ I’m looking to collaborate on open source project around AI and Machine Learning/Deep Learning
 - 📫 How to reach me: <a href="mailto:meridja.abdellah.nassim@gmail.com">meridja.abdellah.nassim@gmail.com</a>
 
 <!---
